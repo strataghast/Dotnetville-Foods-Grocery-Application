@@ -1,0 +1,19 @@
+Dotnetville Foods
+1399 Seasharp Lane, Dotnetville, US, 99901
+
+Item#		Product			Price		Quantity
+--------------------------------------------------------------------------------
+
+101		Pineapple		2.49		1		
+
+102		Passion Fruit		1.29		1		
+
+103		Strawberries		4.99		1		
+
+104		Apple (Single)		1.99		1		
+
+--------------------------------------------------------------------------------
+
+
+Subtotal: $10.76
+Total Paid: $9.68
